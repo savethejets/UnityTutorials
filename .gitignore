@@ -1,0 +1,47 @@
+# Unity generated
+
+/Temp/
+/Obj/
+/UnityGenerated/
+/Library/
+/export/
+/Builds/
+/Assets/Plugins/
+Assets/Libs/
+Assets/ProCore/
+Assets/SpriteColorFX
+Assets/ProCoreComplete/
+Assets/Rewired/
+Assets/ProBuilder Saved Assets/
+Assets/UnityTestTools/
+Assets/SampleAssets/
+
+# 2dtoolkit
+Assets/-tk2d
+Assets/Resources/tk2d
+
+# Visual Studio / MonoDevelop generated
+
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.meta
+
+
+# OS generated
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
